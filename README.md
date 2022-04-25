@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔎 I'm looking for an internship (Aug & Sep) **(Front End Web Devopler)**
+- 🌱 Currenty following a Junior Web Development course at BeCode 
+- 👩‍💻 React, Javascript, CSS3, HTML5
+
 <!--
 **KaatWillems/KaatWillems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
