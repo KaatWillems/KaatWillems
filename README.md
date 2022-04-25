@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔎 I'm looking for an internship (Aug & Sep) **(Front End Web Devopler)**
-- 🌱 Currenty following a Junior Web Development course at BeCode 
+- 🔎 I'm looking for an internship (Aug & Sep) **(Front End Web Developer)**
+- 🌱 Currenty following a Web Development course at BeCode in Brussels
 - 👩‍💻 React, Javascript, CSS3, HTML5
 
 <!--
