@@ -1,3 +1,6 @@
+![banner](https://github.com/KaatWillems/KaatWillems/blob/main/Kaat%20Willems.png)
+
+
 ### Hi there 👋
 
 - 🔎 I'm looking for an internship (Aug & Sep) **(Front End Web Developer)**
